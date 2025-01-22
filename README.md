@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/faba8634-c4e7-42f2-8e9b-d07bdece85ad)# Vulnerability Management Program Implementation
+# Vulnerability Management Program Implementation
 
 In this project, we simulate the implementation of a comprehensive vulnerability management program, from inception to completion.
 
