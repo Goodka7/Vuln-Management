@@ -109,7 +109,7 @@ The Change Control Board (CAB) reviewed and approved the plan to remove insecure
 
 The server team received remediation scripts and scan reports to address key vulnerabilities. This streamlined their efforts and prepared them for a follow-up review.  
 
-<img width="635" alt="image" src="https://github.com/user-attachments/assets/bbf9478f-e1d1-4898-846e-b510ec8c6f72">
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/87ebe6cc-3259-4921-8902-506b2777a37a">
 
 
 [Remediation Email](https://github.com/Goodka7/Vuln-Management/blob/main/resources/RemediationEmail.md)
