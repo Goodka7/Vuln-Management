@@ -1,60 +1,51 @@
-
 Meeting Minutes
 Meeting Title: Permission for Initial Vulnerability Scan
 Date: January 22, 2025
 Time: 3:00 PM - 4:00 PM
 Location: Microsoft Teams
 Attendees:
-    • James Harrington (Cyber Analyst) 
-    • Joe Smith (Server Team Management) 
+    â€¢ James Harrington (Cyber Analyst) 
+    â€¢ Joe Smith (Server Team Management) 
 
 1. Welcome and Meeting Purpose
-    • The meeting was called to order at 3:00 PM by James Harrington. 
-    • Purpose: Discuss and obtain necessary permissions to conduct the initial vulnerability scan across the organization’s servers. 
+    â€¢ The meeting was called to order at 3:00 PM by James Harrington. 
+    â€¢ Purpose: Discuss and obtain necessary permissions to conduct the initial vulnerability scan across the organizationâ€™s servers. 
 
 2. Discussion Items
 a. Scope of the Vulnerability Scan
-    • James Harrington: Provided an overview of the scan, including: 
-        ? Target systems: All production servers. 
-        ? Tools: Use of approved vulnerability scanning software. 
-        ? Frequency: Initial scan to establish a baseline. 
-    • James Harrington: Explained that the scans will take approximately 4-6 hours and will require administrative credentials to execute. 
+    â€¢ James Harrington: Provided an overview of the scan, including: 
+        â€¢ Target systems: All production servers. 
+        â€¢ Tools: Use of approved vulnerability scanning software (Tenable). 
+        â€¢ Frequency: Initial scan to establish a baseline. 
+    â€¢ James Harrington: Explained that the scans will take approximately 4-6 hours and will require administrative credentials to execute. 
 b. Impact on Server Operations
-    • Joe Smith: Raised concerns about potential disruptions during the scan, resource utilization, and granting administrative credentials for all 200 machines. 
-        ? James Harrington: Explained how the scanning process works, highlighting: 
-            ? The scan checks for vulnerabilities by analyzing system configurations, software versions, and known exploits. 
-            ? Administrative credentials are needed to access system-level data essential for comprehensive scanning. 
-        ? Suggested conducting an initial scan on one machine to monitor resource usage and validate the process. 
+    â€¢ Joe Smith: Raised concerns about potential disruptions during the scan, resource utilization, and granting administrative credentials for all 200 machines. 
+        â€¢ James Harrington: Explained how the scanning process works, highlighting: 
+            â€¢ The scan checks for vulnerabilities by analyzing system configurations, software versions, and known exploits. 
+            â€¢ Administrative credentials are needed to access system-level data essential for comprehensive scanning. 
+        â€¢ Suggested conducting an initial scan on one machine to monitor resource usage and validate the process. 
 c. Permissions for Execution
-    • James Harrington: Requested formal approval to proceed with the scan. 
-    • Joe Smith: Agreed to provide the necessary permissions under the condition that a trial scan is conducted first on a single machine. 
+    â€¢ James Harrington: Requested formal approval to proceed with the scan. 
+    â€¢ Joe Smith: Agreed to provide the necessary permissions under the condition that a trial scan is conducted first on a single machine. 
 d. Follow-Up Steps
-    • Develop a communication plan for stakeholders. 
-    • Conduct a trial scan on one non-critical system to validate the process and monitor resources. 
+    â€¢ Develop a communication plan for stakeholders. 
+    â€¢ Conduct a trial scan on one non-critical system to validate the process and monitor resources. 
 
 3. Decisions Made
-    • Permission granted for the initial vulnerability scan, pending successful completion of a trial scan. 
-    • Scans to be scheduled during low-traffic periods. 
-    • Initial scan to be performed on one machine for monitoring. 
+    â€¢ Permission granted for the initial vulnerability scan, pending successful completion of a trial scan. 
+    â€¢ Scans to be scheduled during low-traffic periods. 
+    â€¢ Initial scan to be performed on one machine for monitoring. 
 
 4. Action Items
-Action
-Responsible
-Deadline
-Develop and share scan schedule.
-James Harrington
-January 25, 2025
-Conduct trial scan on one machine.
-James Harrington
-January 27, 2025
-Communicate scan details to stakeholders.
-Joe Smith
-January 28, 2025
+Action                                        Responsible                                Deadline
+Develop and share scan schedule.              James Harrington                           January 25, 2025
+Conduct trial scan on one machine.            James Harrington                           January 27, 2025
+Communicate scan details to stakeholders.     Joe Smith                                  January 28, 2025
 
 5. Next Meeting
-    • Date: February 1, 2025 
-    • Time: 3:00 PM 
-    • Location: Microsoft Teams 
+    â€¢ Date: February 1, 2025 
+    â€¢ Time: 3:00 PM 
+    â€¢ Location: Microsoft Teams 
 
 Meeting Adjourned: 4:00 PM
 Minutes Prepared By: James Harrington
