@@ -1,6 +1,7 @@
+
 Meeting Minutes
 Meeting Title: Permission for Initial Vulnerability Scan
-Date: January 22, 2025
+Date: January 22, 2024
 Time: 3:00 PM - 4:00 PM
 Location: Microsoft Teams
 Attendees:
@@ -15,7 +16,7 @@ Attendees:
 a. Scope of the Vulnerability Scan
     • James Harrington: Provided an overview of the scan, including: 
         • Target systems: All production servers. 
-        • Tools: Use of approved vulnerability scanning software (Tenable). 
+        • Tools: Use of approved vulnerability scanning software. 
         • Frequency: Initial scan to establish a baseline. 
     • James Harrington: Explained that the scans will take approximately 4-6 hours and will require administrative credentials to execute. 
 b. Impact on Server Operations
@@ -37,13 +38,13 @@ d. Follow-Up Steps
     • Initial scan to be performed on one machine for monitoring. 
 
 4. Action Items
-Action                                        Responsible                                Deadline
-Develop and share scan schedule.              James Harrington                           January 25, 2025
-Conduct trial scan on one machine.            James Harrington                           January 27, 2025
-Communicate scan details to stakeholders.     Joe Smith                                  January 28, 2025
+Action                                    Responsible                Deadline
+Develop and share scan schedule.          James Harrington           January 25, 2024
+Conduct trial scan on one machine.        James Harrington           January 27, 2024
+Communicate scan details to stakeholders. Joe Smith                  January 28, 2024
 
 5. Next Meeting
-    • Date: February 1, 2025 
+    • Date: February 1, 2024
     • Time: 3:00 PM 
     • Location: Microsoft Teams 
 
