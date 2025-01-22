@@ -76,9 +76,9 @@ The team collaborates with the server team to initiate scheduled credential scan
 
 In this phase, an insecure Windows Server is provisioned to simulate the server team's environment. After creating vulnerabilities, an authenticated scan is performed, and the results are exported for future remediation steps.  
 
-<img width="635" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/initalscan1.jpg" style="border: 2px solid black;">
+<img width="635" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/resources/initalscan1.jpg" style="border: 2px solid black;">
 
-[Scan 1 - Initial Scan](https://github.com/Goodka7/Vuln-Management/blob/main/VMScan-InitialScan.pdf)
+[Scan 1 - Initial Scan](https://github.com/Goodka7/Vuln-Management/blob/main/resources/VMScan-InitialScan.pdf)
 
 ---
 
@@ -100,7 +100,7 @@ The server team received remediation scripts and scan reports to address key vul
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/bbf9478f-e1d1-4898-846e-b510ec8c6f72">
 
 
-[Remediation Email](https://github.com/Goodka7/Vuln-Management/blob/main/RemediationEmail.md)
+[Remediation Email](https://github.com/Goodka7/Vuln-Management/blob/main/resources/RemediationEmail.md)
 
 ---
 
@@ -108,7 +108,7 @@ The server team received remediation scripts and scan reports to address key vul
 
 The server team reviewed vulnerability scan results, identifying outdated software, insecure accounts, and deprecated protocols. The remediation packages were prepared for submission to the Change Control Board (CAB). 
 
-<a href='https://github.com/Goodka7/Vuln-Management/blob/main/PostScanMeeting-James.txt'>Post Scan Discovery Meeting.</a>
+<a href='https://github.com/Goodka7/Vuln-Management/blob/main/resources/PostScanMeeting-James.txt'>Post Scan Discovery Meeting.</a>
 
 ---
 
@@ -116,7 +116,7 @@ The server team reviewed vulnerability scan results, identifying outdated softwa
 
 The Change Control Board (CAB) reviewed and approved the plan to remove insecure protocols and cipher suites. The plan included a rollback script and a tiered deployment approach.  
 
-<a href="https://github.com/Goodka7/Vuln-Management/blob/main/CABMeeting.txt">Change Control Board Meeting.</a>
+<a href="https://github.com/Goodka7/Vuln-Management/blob/main/resources/CABMeeting.txt">Change Control Board Meeting.</a>
 
 ---
 ### Step 10 ) Remediation Effort
@@ -126,7 +126,7 @@ The Change Control Board (CAB) reviewed and approved the plan to remove insecure
 The server team used a PowerShell script to remove outdated Wireshark. A follow-up scan confirmed successful remediation.  
 [Wireshark Removal Script](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/remediation-wireshark-uninstall.ps1)  
 
-<img width="634" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/firstscan.jpg">
+<img width="634" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/resources/firstscan.jpg">
 
 [Scan 2 - Third Party Software Removal](https://drive.google.com/file/d/1UiwPPTtuSZKk02hiMyXf31pXUIeC5EWt/view?usp=drive_link)
 
@@ -137,7 +137,7 @@ The server team used PowerShell scripts to remediate insecure protocols and ciph
 [PowerShell: Insecure Protocols Remediation](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-protocols.ps1)
 [PowerShell: Insecure Ciphers Remediation](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-cipher-suites.ps1)
 
-<img width="630" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/secondscan.jpg">
+<img width="630" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/resources/secondscan.jpg">
 
 [Scan 3 - Ciphersuites and Protocols](https://drive.google.com/file/d/1Qc6-ezQvwReCGUZNtnva0kCZo_-zW-Sm/view?usp=drive_link)
 
@@ -147,7 +147,7 @@ The server team used PowerShell scripts to remediate insecure protocols and ciph
 The server team removed the guest account from the administrator group. A new scan confirmed remediation, and the results were exported for comparison.  
 [PowerShell: Guest Account Group Membership Remediation](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-guest-local-administrators.ps1)  
 
-<img width="627" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/thirdscan.jpg">
+<img width="627" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/resources/thirdscan.jpg">
 
 [Scan 4 - Guest Account Group Removal](https://drive.google.com/file/d/1jVgikjfrV1YjOcL3QRT_oUB0Y82w22V7/view?usp=drive_link)
 
@@ -156,7 +156,7 @@ The server team removed the guest account from the administrator group. A new sc
 
 Windows updates were re-enabled and applied until the system was fully up to date. A final scan verified the changes  
 
-<img width="627" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/finalscan.jpg">
+<img width="627" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/resources/finalscan.jpg">
 
 [Scan 5 - Post Windows Updates](https://drive.google.com/file/d/1tmDjeHl5uiGitRwWy8kFRi33q-nGi1Zt/view?usp=drive_link)
 
