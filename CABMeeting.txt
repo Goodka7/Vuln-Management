@@ -1,64 +1,53 @@
-
 Meeting Minutes
 Meeting Title: Change Advisory Board Meeting
-Date: January 23, 2025
+Date: January 23, 2024
 Time: 2:00 PM - 3:00 PM
 Location: Microsoft Teams
 Attendees:
-    • James Harrington (Cyber Analyst) 
-    • Joe Smith (Server Team Management) 
-    • Emily Carter (Risk Department) 
-    • Michael Lee (Infrastructure Team) 
+    â€¢ James Harrington (Cyber Analyst) 
+    â€¢ Joe Smith (Server Team Management) 
+    â€¢ Emily Carter (Risk Department) 
+    â€¢ Michael Lee (Infrastructure Team) 
 
 1. Welcome and Meeting Purpose
-    • The meeting was called to order at 2:00 PM by James Harrington. 
-    • Purpose: Review and approve proposed vulnerability remediations for the server team. 
+    â€¢ The meeting was called to order at 2:00 PM by James Harrington. 
+    â€¢ Purpose: Review and approve proposed vulnerability remediations for the server team. 
 
 2. Discussion Items
 a. Proposed Vulnerability Remediations
-    • James Harrington: Introduced the two key items for remediation: 
+    â€¢ James Harrington: Introduced the two key items for remediation: 
         1. Removal of insecure protocols. 
         2. Removal of insecure cipher suites. 
-    • Joe Smith: Mentioned that James and Michael from Infrastructure have been collaborating on these efforts. 
+    â€¢ Joe Smith: Mentioned that James and Michael from Infrastructure have been collaborating on these efforts. 
 b. Technical Overview
-    • Michael Lee: Deferred the explanation to James Harrington, who developed the solution. 
-    • James Harrington: Provided a detailed explanation: 
-        ? Insecure Protocols and Cipher Suites: These allow systems to negotiate outdated, deprecated algorithms and protocols, posing security risks. 
-        ? Solution: A PowerShell script was developed to disable insecure protocols and ciphers and enable secure, standardized ones via Windows registry updates. 
+    â€¢ Michael Lee: Deferred the explanation to James Harrington, who developed the solution. 
+    â€¢ James Harrington: Provided a detailed explanation: 
+        1. Insecure Protocols and Cipher Suites: These allow systems to negotiate outdated, deprecated algorithms and protocols, posing security risks. 
+        2. Solution: A PowerShell script was developed to disable insecure protocols and ciphers and enable secure, standardized ones via Windows registry updates. 
 c. Rollback Plan
-    • Joe Smith: Asked about contingency plans if issues arise. 
-    • James Harrington: Explained the tiered deployment strategy: 
-        ? Deployment Phases: Pilot group (small set of systems), pre-production, and full production. 
-        ? Rollback Mechanism: Automated rollback script restores original protocols and ciphers if unexpected issues occur. 
-    • James Harrington: Confirmed that the changes are straightforward registry updates, minimizing risk. 
+    â€¢ Joe Smith: Asked about contingency plans if issues arise. 
+    â€¢ James Harrington: Explained the tiered deployment strategy: 
+        1. Deployment Phases: Pilot group (small set of systems), pre-production, and full production. 
+        2. Rollback Mechanism: Automated rollback script restores original protocols and ciphers if unexpected issues occur. 
+    â€¢ James Harrington: Confirmed that the changes are straightforward registry updates, minimizing risk. 
 
 3. Decisions Made
-    • Approval granted for: 
-        ? Tiered deployment of the remediation scripts. 
-        ? Implementation of automated rollback mechanisms. 
-    • No major concerns raised during the meeting. 
+    â€¢ Approval granted for: 
+        1. Tiered deployment of the remediation scripts. 
+        2. Implementation of automated rollback mechanisms. 
+    â€¢ No major concerns raised during the meeting. 
 
 4. Action Items
-Action
-Responsible
-Deadline
-Deploy remediation scripts to pilot group.
-Michael Lee
-January 29, 2025
-Monitor pilot deployment and gather feedback.
-James Harrington
-February 1, 2025
-Finalize rollout to pre-production environment.
-James Harrington
-February 5, 2025
-Prepare documentation for production deployment.
-Joe Smith
-February 7, 2025
+Action                                            Responsible                Deadline
+Deploy remediation scripts to pilot group.        Michael Lee                January 29, 2024
+Monitor pilot deployment and gather feedback.     James Harrington           February 1, 2024
+Finalize rollout to pre-production environment.   James Harrington           February 5, 2024
+Prepare documentation for production deployment.  Joe Smith                  February 7, 2024
 
 5. Next Meeting
-    • Date: February 8, 2025 
-    • Time: 2:00 PM 
-    • Location: Microsoft Teams 
+    â€¢ Date: February 8, 2024 
+    â€¢ Time: 2:00 PM 
+    â€¢ Location: Microsoft Teams 
 
 Meeting Adjourned: 3:00 PM
 Minutes Prepared By: James Harrington
