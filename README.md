@@ -161,7 +161,7 @@ Windows updates were re-enabled and applied until the system was fully up to dat
 
 ### First Cycle Remediation Effort Summary
 
-The remediation process reduced total vulnerabilities by 80%, from 30 to 6. Critical vulnerabilities were resolved by the second scan (100%), and high vulnerabilities dropped by 90%. Mediums were reduced by 76%. In an actual production environment, asset criticality would further guide future remediation efforts.  
+The remediation process reduced total vulnerabilities by 66.67%, from 27 to 9. Critical vulnerabilities were resolved by the second scan (100%), and high vulnerabilities dropped by 77.78%. Mediums were reduced by 60%. In an actual production environment, asset criticality would further guide future remediation efforts.  
 
 <img width="1920" alt="image" src="https://github.com/user-attachments/assets/946af32e-8e85-42c6-a55f-44fa1afecfb3">
 
