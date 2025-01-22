@@ -79,7 +79,7 @@ In this phase, an insecure Windows Server is provisioned to simulate the server 
 
 <img width="635" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/initalscan1.jpg" style="border: 2px solid black;">
 
-[Scan 1 - Initial Scan](https://drive.google.com/file/d/1RBPVj_azKJMwmRZ8QILlb4hxIjQU3wQ7/view?usp=drive_link)
+[Scan 1 - Initial Scan](https://github.com/Goodka7/Vuln-Management/blob/main/VMScan-InitialScan.pdf)
 
 
 
