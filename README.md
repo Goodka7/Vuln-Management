@@ -48,7 +48,7 @@ This phase focuses on drafting a Vulnerability Management Policy as a starting p
 
 In this phase, a meeting with the server team introduces the draft Vulnerability Management Policy and assesses their capability to meet remediation timelines. Feedback leads to adjustments, like extending the critical remediation window from 48 hours to one week, ensuring collaborative implementation.
 
-<a href="https://github.com/Goodka7/Vuln-Management/blob/main/VulnPolicy-James.txt">Policy Buy-In Meeting.</a>
+<a href="https://github.com/Goodka7/Vuln-Management/blob/main/resources/VulnPolicy-James.txt">Policy Buy-In Meeting.</a>
 
 ---
 
@@ -68,7 +68,7 @@ After gathering feedback from the server team, the policy is revised, addressing
 
 The team collaborates with the server team to initiate scheduled credential scans. A compromise is reached to scan a single server first, monitoring resource impact, and using just-in-time Active Directory credentials for secure, controlled access.  
 
-<a href='https://github.com/Goodka7/Vuln-Management/blob/main/IntialScanRequest-James.txt'>Initial Scan Request Meeting.</a>
+<a href='https://github.com/Goodka7/Vuln-Management/blob/main/resources/IntialScanRequest-James.txt'>Initial Scan Request Meeting.</a>
 
 ---
 
