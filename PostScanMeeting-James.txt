@@ -5,64 +5,54 @@ Date: January 22, 2024
 Time: 9:00 AM - 10:00 AM
 Location: Microsoft Teams
 Attendees:
-    • James Harrington (Cyber Analyst) 
-    • Joe Smith (Server Team Management) 
+    â€¢ James Harrington (Cyber Analyst) 
+    â€¢ Joe Smith (Server Team Management) 
 
 1. Welcome and Meeting Purpose
-    • The meeting was called to order at 9:00 AM by James Harrington. 
-    • Purpose: Review the results of the initial discovery scan and discuss next steps for remediation. 
+    â€¢ The meeting was called to order at 9:00 AM by James Harrington. 
+    â€¢ Purpose: Review the results of the initial discovery scan and discuss next steps for remediation. 
 
 2. Discussion Items
 a. Scan Results Overview
-    • James Harrington: Inquired about any issues during the scan. 
-        ? Joe Smith: Reported no outages or resource overutilization; the scan ran smoothly and was minimally intrusive. 
-    • James Harrington: Confirmed the positive outcome and noted continued monitoring would ensure smooth operations during future scans. 
+    â€¢ James Harrington: Inquired about any issues during the scan. 
+        â€¢ Joe Smith: Reported no outages or resource overutilization; the scan ran smoothly and was minimally intrusive. 
+    â€¢ James Harrington: Confirmed the positive outcome and noted continued monitoring would ensure smooth operations during future scans. 
 b. Key Vulnerability Findings
-    • James Harrington shared the primary vulnerabilities identified: 
+    â€¢ James Harrington shared the primary vulnerabilities identified: 
         1. Wireshark: Found installed on multiple servers and is significantly out of date. 
         2. Local Guest Account: Discovered as a member of the local administrators group, requiring removal. 
         3. Deprecated Protocols: Medium strength cipher suites, TLS 1.1, and TLS 1.0 are deprecated and need remediation. 
         4. Windows Updates: Certain vulnerabilities may be automatically resolved by regular patching, such as those related to Microsoft Edge Chromium. 
         5. Self-Signed Certificates: Identified but deemed low-priority as they are standard computer self-signed certificates. 
 c. Remediation Strategies
-    • Joe Smith: Mentioned that most servers appear to have uniform vulnerabilities, simplifying remediation efforts. 
-    • James Harrington: Proposed initial remediation steps: 
-        ? Uninstall outdated Wireshark software. 
-        ? Remove the guest account from the local administrators group. 
-        ? Address deprecated cipher suites and protocols through the Change Control Board (CCB). 
-        ? Ensure Windows updates are applied regularly via existing patch management processes. 
-    • Joe Smith: Confirmed no anticipated issues with the remediation process. Uninstalling Wireshark and fixing the guest account should be straightforward tasks. 
+    â€¢ Joe Smith: Mentioned that most servers appear to have uniform vulnerabilities, simplifying remediation efforts. 
+    â€¢ James Harrington: Proposed initial remediation steps: 
+        1. Uninstall outdated Wireshark software. 
+        2. Remove the guest account from the local administrators group. 
+        3. Address deprecated cipher suites and protocols through the Change Control Board (CCB). 
+        4. Ensure Windows updates are applied regularly via existing patch management processes. 
+    â€¢ Joe Smith: Confirmed no anticipated issues with the remediation process. Uninstalling Wireshark and fixing the guest account should be straightforward tasks. 
 d. Patch Management
-    • James Harrington: Asked about patch management for Windows Update-related vulnerabilities. 
-    • Joe Smith: Confirmed that a patch management system is in place and updates are handled automatically, with completion expected by next week. 
+    â€¢ James Harrington: Asked about patch management for Windows Update-related vulnerabilities. 
+    â€¢ Joe Smith: Confirmed that a patch management system is in place and updates are handled automatically, with completion expected by next week. 
 
 3. Decisions Made
-    • Continue monitoring resource utilization during scans. 
-    • Prioritize remediation of Wireshark, guest account issues, and deprecated protocols. 
-    • Utilize Change Control Board for approval of major changes. 
-    • Allow patch management to handle Windows update-related vulnerabilities. 
+    â€¢ Continue monitoring resource utilization during scans. 
+    â€¢ Prioritize remediation of Wireshark, guest account issues, and deprecated protocols. 
+    â€¢ Utilize Change Control Board for approval of major changes. 
+    â€¢ Allow patch management to handle Windows update-related vulnerabilities. 
 
 4. Action Items
-Action
-Responsible
-Deadline
-Build remediation packages for identified vulnerabilities.
-James Harrington
-January 30, 2024
-Confirm removal of guest account from admin group.
-Joe Smith
-January 28, 2024
-Coordinate with CIS admins regarding Wireshark removal.
-Joe Smith
-January 29, 2024
-Prepare Change Control Board documentation.
-James Harrington
-January 31, 2024
+Action                                                        Responsible                        Deadline
+Build remediation packages for identified vulnerabilities.    James Harrington                   January 30, 2024
+Confirm removal of guest account from admin group.            Joe Smith                          January 28, 2024
+Coordinate with CIS admins regarding Wireshark removal.       Joe Smith                          January 29, 2024
+Prepare Change Control Board documentation.                   James Harrington                   January 31, 2024
 
 5. Next Meeting
-    • Date: February 5, 2024 
-    • Time: 9:00 AM 
-    • Location: Microsoft Teams 
+    â€¢ Date: February 5, 2024 
+    â€¢ Time: 9:00 AM 
+    â€¢ Location: Microsoft Teams 
 
 Meeting Adjourned: 10:00 AM
 Minutes Prepared By: James Harrington
