@@ -144,7 +144,7 @@ The server team used PowerShell scripts to remediate insecure protocols and ciph
 [PowerShell: Insecure Protocols Remediation](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-protocols.ps1)
 [PowerShell: Insecure Ciphers Remediation](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-cipher-suites.ps1)
 
-<img width="630" alt="image" src="https://github.com/user-attachments/assets/0e96120d-8ec9-4f76-8e42-79c752200010">
+<img width="630" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/secondscan.jpg">
 
 [Scan 3 - Ciphersuites and Protocols](https://drive.google.com/file/d/1Qc6-ezQvwReCGUZNtnva0kCZo_-zW-Sm/view?usp=drive_link)
 
@@ -154,7 +154,7 @@ The server team used PowerShell scripts to remediate insecure protocols and ciph
 The server team removed the guest account from the administrator group. A new scan confirmed remediation, and the results were exported for comparison.  
 [PowerShell: Guest Account Group Membership Remediation](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-guest-local-administrators.ps1)  
 
-<img width="627" alt="image" src="https://github.com/user-attachments/assets/870a3eac-3398-44fe-91c0-96f3c2578df4">
+<img width="627" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/thirdscan.jpg">
 
 [Scan 4 - Guest Account Group Removal](https://drive.google.com/file/d/1jVgikjfrV1YjOcL3QRT_oUB0Y82w22V7/view?usp=drive_link)
 
@@ -163,7 +163,7 @@ The server team removed the guest account from the administrator group. A new sc
 
 Windows updates were re-enabled and applied until the system was fully up to date. A final scan verified the changes  
 
-<img width="627" alt="image" src="https://github.com/user-attachments/assets/870a3eac-3398-44fe-91c0-96f3c2578df4">
+<img width="627" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/finalscan.jpg">
 
 [Scan 5 - Post Windows Updates](https://drive.google.com/file/d/1tmDjeHl5uiGitRwWy8kFRi33q-nGi1Zt/view?usp=drive_link)
 
