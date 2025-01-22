@@ -17,7 +17,6 @@ _**Completion State:**_ a formal policy is enacted, stakeholder buy-in is secure
 
 ---
 
-
 # Table of Contents
 
 - [Vulnerability Management Policy Draft Creation](#vulnerability-management-policy-draft-creation)
@@ -49,8 +48,7 @@ This phase focuses on drafting a Vulnerability Management Policy as a starting p
 
 In this phase, a meeting with the server team introduces the draft Vulnerability Management Policy and assesses their capability to meet remediation timelines. Feedback leads to adjustments, like extending the critical remediation window from 48 hours to one week, ensuring collaborative implementation.
 
-<a href="https://github.com/Goodka7/Vuln-Management/blob/main/VulnPolicy-James.txt">Policy Buy-In Meeting Minutes.</a>
-
+<a href="https://github.com/Goodka7/Vuln-Management/blob/main/VulnPolicy-James.txt">Policy Buy-In Meeting.</a>
 
 ---
 
@@ -59,6 +57,7 @@ In this phase, a meeting with the server team introduces the draft Vulnerability
 After gathering feedback from the server team, the policy is revised, addressing aggressive remediation timelines. With final approval from upper management, the policy now guides the program, ensuring compliance and reference for pushback resolution.  
 
 [Finalized Policy](https://docs.google.com/document/d/1rvueLX_71pOR8ldN9zVW9r_zLzDQxVsnSUtNar8ftdg/edit?usp=drive_link)
+
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/9afcdbc1-0493-4af2-9287-1cb9b8f59b40" alt="image" width="400">
 </div>
@@ -69,7 +68,7 @@ After gathering feedback from the server team, the policy is revised, addressing
 
 The team collaborates with the server team to initiate scheduled credential scans. A compromise is reached to scan a single server first, monitoring resource impact, and using just-in-time Active Directory credentials for secure, controlled access.  
 
-<a href='https://github.com/Goodka7/Vuln-Management/blob/main/IntialScanRequest-James.txt'>Initial Scan Request Meeting Minutes</a>
+<a href='https://github.com/Goodka7/Vuln-Management/blob/main/IntialScanRequest-James.txt'>Initial Scan Request Meeting.</a>
 
 ---
 
@@ -80,9 +79,6 @@ In this phase, an insecure Windows Server is provisioned to simulate the server 
 <img width="635" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/initalscan1.jpg" style="border: 2px solid black;">
 
 [Scan 1 - Initial Scan](https://github.com/Goodka7/Vuln-Management/blob/main/VMScan-InitialScan.pdf)
-
-
-
 
 ---
 
@@ -111,7 +107,8 @@ The server team received remediation scripts and scan reports to address key vul
 
 The server team reviewed vulnerability scan results, identifying outdated software, insecure accounts, and deprecated protocols. The remediation packages were prepared for submission to the Change Control Board (CAB). 
 
-<a href='https://github.com/Goodka7/Vuln-Management/blob/main/PostScanMeeting-James.txt'>Post Scan Discovery Meeting</a
+<a href='https://github.com/Goodka7/Vuln-Management/blob/main/PostScanMeeting-James.txt'>Post Scan Discovery Meeting.</a>
+
 ---
 
 ### Step 9) Mock CAB Meeting: Implementing Remediations
