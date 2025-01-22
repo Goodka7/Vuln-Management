@@ -4,49 +4,41 @@ Date: January 19, 2024
 Time: 2:00 PM - 3:00 PM
 Location: Microsoft Teams
 Attendees:
-    • James Harrington (Cyber Analyst)
-    • Joe Smith (Server Team Management)
+    â€¢ James Harrington (Cyber Analyst)
+    â€¢ Joe Smith (Server Team Management)
 
 1. Welcome and Meeting Purpose
-    • The meeting was called to order at 2:00 PM by James Harrington.
-    • Purpose: Discuss the draft Vulnerability Management Policy and achieve agreement on key components.
+    â€¢ The meeting was called to order at 2:00 PM by James Harrington.
+    â€¢ Purpose: Discuss the draft Vulnerability Management Policy and achieve agreement on key components.
 
 2. Discussion Items
 a. General Feedback on Policy
-    • Joe Smith: Overall, the policy is well-written and aligns with organizational goals. However, the timelines for remediation are a concern for the server team.
+    â€¢ Joe Smith: Overall, the policy is well-written and aligns with organizational goals. However, the timelines for remediation are a concern for the server team.
 b. Remediation Timelines
-    • Joe Smith: Expressed that requiring critical vulnerabilities to be remediated within 48 hours is too aggressive for the current capacity of his team.
-    • James Harrington: Acknowledged the concern and proposed a compromise:
+    â€¢ Joe Smith: Expressed that requiring critical vulnerabilities to be remediated within 48 hours is too aggressive for the current capacity of his team.
+    â€¢ James Harrington: Acknowledged the concern and proposed a compromise:
         ? Standard critical vulnerabilities: Extend remediation timeline to 7 days.
         ? Zero-day vulnerabilities: Maintain a 48-hour remediation deadline.
-    • Agreement Reached: Adjust timelines in the policy to reflect the compromise.
+    â€¢ Agreement Reached: Adjust timelines in the policy to reflect the compromise.
 c. Policy Adjustment Grace Period
-    • Joe Smith: Suggested a grace period to allow teams to adapt to the new policy requirements.
-    • James Harrington: Agreed to include a 6-month grace period following policy finalization.
+    â€¢ Joe Smith: Suggested a grace period to allow teams to adapt to the new policy requirements.
+    â€¢ James Harrington: Agreed to include a 6-month grace period following policy finalization.
 
 3. Decisions Made
-    • Extend remediation timelines for standard critical vulnerabilities to 7 days.
-    • Maintain 48-hour remediation timeline exclusively for zero-day vulnerabilities.
-    • Include a 6-month grace period for adjustment to the finalized policy.
+    â€¢ Extend remediation timelines for standard critical vulnerabilities to 7 days.
+    â€¢ Maintain 48-hour remediation timeline exclusively for zero-day vulnerabilities.
+    â€¢ Include a 6-month grace period for adjustment to the finalized policy.
 
 4. Action Items
-Action
-Responsible
-Deadline
-Update policy draft with agreed changes.
-James Harrington
-January 24, 2024
-Review updated policy draft.
-Joe Smith
-January 26, 2024
-Schedule final review meeting.
-James Harrington
-January 27, 2024
+Action                                        Responsible                                        Deadline
+Update policy draft with agreed changes.      James Harrington                                   January 24, 2024
+Review updated policy draft.                  Joe Smith                                          January 26, 2024
+Schedule final review meeting.                James Harrington                                   January 27, 2024
 
 5. Next Meeting
-    • Date: January 29, 2024
-    • Time: 2:00 PM
-    • Location: Microsoft Teams
+    â€¢ Date: January 29, 2024
+    â€¢ Time: 2:00 PM
+    â€¢ Location: Microsoft Teams
 
 Meeting Adjourned: 3:00 PM
 Minutes Prepared By: James Harrington
