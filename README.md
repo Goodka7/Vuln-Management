@@ -66,7 +66,6 @@ After gathering feedback from the server team, the policy is revised, addressing
 ### Step 4) Mock Meeting: Initial Scan Permission (Server Team)
 
 The team collaborates with the server team to initiate scheduled credential scans. A compromise is reached to scan a single server first, monitoring resource impact, and using just-in-time Active Directory credentials for secure, controlled access.  
-[Mock Meeting Video](https://youtu.be/lg068WA4SKM)
 
 <a href='https://github.com/Goodka7/Vuln-Management/blob/main/IntialScanRequest-James.txt'>Initial Scan Request Meeting Minutes</a>
 
