@@ -116,9 +116,7 @@ The server team reviewed vulnerability scan results, identifying outdated softwa
 
 The Change Control Board (CAB) reviewed and approved the plan to remove insecure protocols and cipher suites. The plan included a rollback script and a tiered deployment approach.  
 
-<a href="https://youtu.be/0tjjFewxSNw" target="_"><img width="600" src="https://github.com/user-attachments/assets/a4f5799e-9579-4c59-a607-948b3bbe4f3d"/></a>
-
-[Meeting Video](https://youtu.be/zOFPkTa9kY8)
+<a href="https://github.com/Goodka7/Vuln-Management/blob/main/CABMeeting.txt">Change Control Board Meeting.</a>
 
 ---
 ### Step 10 ) Remediation Effort
