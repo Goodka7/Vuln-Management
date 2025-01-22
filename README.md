@@ -111,10 +111,7 @@ The server team received remediation scripts and scan reports to address key vul
 
 The server team reviewed vulnerability scan results, identifying outdated software, insecure accounts, and deprecated protocols. The remediation packages were prepared for submission to the Change Control Board (CAB). 
 
-<a href="https://youtu.be/0tjjFewxSNw" target="_"><img width="600" src="https://github.com/user-attachments/assets/f18b23ef-9cce-4eca-9468-ca03540a8820"/></a>
-
-[Meeting Video](https://youtu.be/0tjjFewxSNw)
-
+<a href='https://github.com/Goodka7/Vuln-Management/blob/main/PostScanMeeting-James.txt'>Post Scan Discovery Meeting</a
 ---
 
 ### Step 9) Mock CAB Meeting: Implementing Remediations
