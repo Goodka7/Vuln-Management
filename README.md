@@ -58,10 +58,6 @@ After gathering feedback from the server team, the policy is revised, addressing
 
 [Finalized Policy](https://docs.google.com/document/d/1rvueLX_71pOR8ldN9zVW9r_zLzDQxVsnSUtNar8ftdg/edit?usp=drive_link)
 
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/9afcdbc1-0493-4af2-9287-1cb9b8f59b40" alt="image" width="400">
-</div>
-
 ---
 
 ### Step 4) Mock Meeting: Initial Scan Permission (Server Team)
