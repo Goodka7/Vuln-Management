@@ -128,7 +128,7 @@ The server team used a PowerShell script to remove outdated Wireshark. A follow-
 
 <img width="634" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/resources/firstscan.jpg">
 
-[Scan 2 - Third Party Software Removal](https://drive.google.com/file/d/1UiwPPTtuSZKk02hiMyXf31pXUIeC5EWt/view?usp=drive_link)
+[Scan 2 - Third Party Software Removal](https://github.com/Goodka7/Vuln-Management/blob/main/resources/VMScan-FirstRemScan.pdf)
 
 
 **Remediation Round 2: Insecure Protocols & Ciphers**
@@ -139,7 +139,7 @@ The server team used PowerShell scripts to remediate insecure protocols and ciph
 
 <img width="630" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/resources/secondscan.jpg">
 
-[Scan 3 - Ciphersuites and Protocols](https://drive.google.com/file/d/1Qc6-ezQvwReCGUZNtnva0kCZo_-zW-Sm/view?usp=drive_link)
+[Scan 3 - Ciphersuites and Protocols](https://github.com/Goodka7/Vuln-Management/blob/main/resources/VMScan-SecondRemScan.pdf)
 
 
 **Remediation Round 3: Guest Account Group Membership**
@@ -149,7 +149,7 @@ The server team removed the guest account from the administrator group. A new sc
 
 <img width="627" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/resources/thirdscan.jpg">
 
-[Scan 4 - Guest Account Group Removal](https://drive.google.com/file/d/1jVgikjfrV1YjOcL3QRT_oUB0Y82w22V7/view?usp=drive_link)
+[Scan 4 - Guest Account Group Removal](https://github.com/Goodka7/Vuln-Management/blob/main/resources/VMScan-ThirdRemScan.pdf)
 
 
 **Remediation Round 4: Windows OS Updates**
@@ -158,7 +158,7 @@ Windows updates were re-enabled and applied until the system was fully up to dat
 
 <img width="627" alt="image" src="https://github.com/Goodka7/Vuln-Management/blob/main/resources/finalscan.jpg">
 
-[Scan 5 - Post Windows Updates](https://drive.google.com/file/d/1tmDjeHl5uiGitRwWy8kFRi33q-nGi1Zt/view?usp=drive_link)
+[Scan 5 - Post Windows Updates](https://github.com/Goodka7/Vuln-Management/blob/main/resources/VMScan-FinalRemScan.pdf)
 
 ---
 
