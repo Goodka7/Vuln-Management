@@ -93,7 +93,23 @@ We assessed vulnerabilities and established a remediation prioritization strateg
 
 ---
 
-### Step 7) Distributing Remediations to Remediation Teams
+### Step 7) Mock Meeting: Post-Initial Discovery Scan (Server Team)
+
+The server team reviewed vulnerability scan results, identifying outdated software, insecure accounts, and deprecated protocols. The remediation packages were prepared for submission to the Change Control Board (CAB). 
+
+<a href='https://github.com/Goodka7/Vuln-Management/blob/main/resources/PostScanMeeting-James.txt'>Post Scan Discovery Meeting.</a>
+
+---
+
+### Step 8) Mock CAB Meeting: Implementing Remediations
+
+The Change Control Board (CAB) reviewed and approved the plan to remove insecure protocols and cipher suites. The plan included a rollback script and a tiered deployment approach.  
+
+<a href="https://github.com/Goodka7/Vuln-Management/blob/main/resources/CABMeeting.txt">Change Control Board Meeting.</a>
+
+---
+
+### Step 9) Distributing Remediations to Remediation Teams
 
 The server team received remediation scripts and scan reports to address key vulnerabilities. This streamlined their efforts and prepared them for a follow-up review.  
 
@@ -104,21 +120,6 @@ The server team received remediation scripts and scan reports to address key vul
 
 ---
 
-### Step 8) Mock Meeting: Post-Initial Discovery Scan (Server Team)
-
-The server team reviewed vulnerability scan results, identifying outdated software, insecure accounts, and deprecated protocols. The remediation packages were prepared for submission to the Change Control Board (CAB). 
-
-<a href='https://github.com/Goodka7/Vuln-Management/blob/main/resources/PostScanMeeting-James.txt'>Post Scan Discovery Meeting.</a>
-
----
-
-### Step 9) Mock CAB Meeting: Implementing Remediations
-
-The Change Control Board (CAB) reviewed and approved the plan to remove insecure protocols and cipher suites. The plan included a rollback script and a tiered deployment approach.  
-
-<a href="https://github.com/Goodka7/Vuln-Management/blob/main/resources/CABMeeting.txt">Change Control Board Meeting.</a>
-
----
 ### Step 10 ) Remediation Effort
 
 **Remediation Round 1: Outdated Wireshark Removal**
