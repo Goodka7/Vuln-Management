@@ -17,8 +17,8 @@ a. General Feedback on Policy
 b. Remediation Timelines
     • Joe Smith: Expressed that requiring critical vulnerabilities to be remediated within 48 hours is too aggressive for the current capacity of his team.
     • James Harrington: Acknowledged the concern and proposed a compromise:
-        ? Standard critical vulnerabilities: Extend remediation timeline to 7 days.
-        ? Zero-day vulnerabilities: Maintain a 48-hour remediation deadline.
+        • Standard critical vulnerabilities: Extend remediation timeline to 7 days.
+        • Zero-day vulnerabilities: Maintain a 48-hour remediation deadline.
     • Agreement Reached: Adjust timelines in the policy to reflect the compromise.
 c. Policy Adjustment Grace Period
     • Joe Smith: Suggested a grace period to allow teams to adapt to the new policy requirements.
